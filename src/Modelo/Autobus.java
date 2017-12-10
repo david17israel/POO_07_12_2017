@@ -1,5 +1,5 @@
-
-package Modelo;//Hola
+//CLASE HIJA
+package Modelo;
 
 public class Autobus extends Vehiculo{
     private String numeroPlazas;
