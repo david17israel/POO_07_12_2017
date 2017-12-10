@@ -1,5 +1,5 @@
 
-package Modelo;
+package Modelo;//Hola
 
 public class Autobus extends Vehiculo{
     private String numeroPlazas;
